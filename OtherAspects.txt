@@ -1,0 +1,37 @@
+1980's–present
+
+One of three monorails at Europa-Park in Rust, Germany
+From the 1980s, most monorail mass transit systems are in Japan, with a few exceptions. Tokyo Monorail, is one of the world's busiest, averages 127,000 passengers per day and has served over 1.5 billion passengers since 1964.[27] China recently started development of monorails in the late 2000s, already home to the world's largest and busiest monorail system and has a number of mass transit monorails under construction in several of cities. A Bombardier Innovia Monorail-based system is under construction in Wuhu and several "Cloudrail" systems developed by BYD under construction a number of cities such as Guang'an, Liuzhou, Bengbu and Guilin. Monorails have seen continuing use in niche shuttle markets and amusement parks.
+
+Modern mass transit monorail systems use developments of the ALWEG beam and tyre approach, with only two suspended types in large use. Monorail configurations have also been adopted by maglev trains. Since the 2000s, with the rise of traffic congestion and urbanization, there has been a resurgence of interest in the technology for public transport with a number of cities, such as Malta[28][29] and Istanbul,[30][31][32] today investigating monorails as a possible mass transit solution.[33]
+
+In 2004, Chongqing Rail Transit in China adopted a unique ALWEG-based design with rolling stock that is much wider than most monorails, with capacity comparable to heavy rail. This is because Chongqing is criss-crossed by numerous hills, mountains and rivers, therefore tunneling is not feasible except in some cases (for example, lines 1 and 6) due to the extreme depth involved. Today it is the largest and busiest monorail system in the world.
+
+In July 2009, two Walt Disney World monorails collided, killing one of the drivers and injuring seven passengers. The National Transportation Safety Board found the cause of the accident to be human error by both the driver and controller, contributed to by a lack of standard operating procedures.[34]
+
+São Paulo, Brazil, is building two high-capacity monorail lines as part of its public transportation network. Line 15 was partially opened in 2014, will be 27 km (17 mi) long when completed in 2022 and has a capacity of 40,000 pphpd using Bombardier Innovia Monorail trains.[33] Line 17 will be 17.7 km (11.0 mi) long and is using the BYD SkyRail design. Other significant monorail systems are under construction such as two lines for the Cairo Monorail, two lines for the MRT (Bangkok) and the SkyRail Bahia in Brazil.
+
+Types and technical aspects
+
+The Wuppertal Schwebebahn, the world's first electric suspended monorail
+Modern monorails depend on a large solid beam as the vehicles' running surface. There are a number of competing designs divided into two broad classes, straddle-beam and suspended monorails. The most common type is the straddle-beam, in which the train straddles a steel or reinforced concrete beam 2 to 3 feet (0.6 to 0.9 m) wide. A rubber-tired carriage contacts the beam on the top and both sides for traction and to stabilize the vehicle. The style was popularized by the German company ALWEG. There is also a historical type of suspension monorail developed by German inventors Nicolaus Otto and Eugen Langen in the 1880s. It was built in the twin cities of Barmen and Elberfeld in Wuppertal, Germany, opened in 1901, and is still in operation. The Chiba Urban Monorail is the world's largest suspended network.
+
+Power
+Almost all modern monorails are powered by electric motors fed by dual third rails, contact wires or electrified channels attached to or enclosed in their guidance beams, but diesel-powered monorail systems also exist.[35] Historically some systems, such as the Lartigue Monorail, used steam locomotives.
+
+Magnetic levitation
+
+Transrapid maglev on monorail track
+Magnetic levitation train (maglev) systems such as the German Transrapid were built as straddle-type monorails. The Shanghai Maglev Train runs in commercial operation at 430 km/h (270 mph), and there are also slower maglev monorails intended for urban transport in Japan (Linimo), Korea (Incheon Airport Maglev) and China (Beijing Subway Line S1 and the Changsha Maglev Express). However, it is argued that the larger width of the guideway for the maglevs makes it not legitimate to be called monorails.[36][37]
+
+Switching
+
+Switches at storage facility of Osaka Monorail
+Some early monorails (notably the suspended monorail at Wuppertal, Germany) have a design that makes it difficult to switch from one line to another. Some other monorails avoid switching as much as possible by operating in a continuous loop or between two fixed stations, as in the Seattle Center Monorail.[citation needed]
+
+Current monorails are capable of more efficient switching than in the past. With suspended monorails, switching may be accomplished by moving flanges inside the beamway to shift trains to one line or another.[citation needed]
+
+A switch changing the direction of travel at Line 15 in São Paulo.
+Straddle-beam monorails require that the beam moves for switching, which was an almost prohibitively ponderous procedure. Now the most common way of achieving this is to place a moving apparatus on top of a sturdy platform capable of bearing the weight of vehicles, beams and its own mechanism. Multiple-segmented beams move into place on rollers to smoothly align one beam with another to send the train in its desired direction, with the design originally developed by ALWEG capable of completing a switch in 12 seconds.[38] Some of these beam turnouts are quite elaborate, capable of switching between several beams or simulating a railroad double-crossover. Vehicle specifications are generally not open to the public, as is standard for rolling stock built for public services.[39]
+
+An alternative to using a wye or other form of switch, is to use a turntable, where a car sits upon a section of track that can be reoriented to several different tracks. For example, this can be used to switch a car from being in a storage location, to being on the main line.[40][41] The now-closed Sydney Monorail had a traverser at the depot, which allowed a train on the main line to be exchanged with another from the depot. There were about six lines in the depot, including one for maintenance.
